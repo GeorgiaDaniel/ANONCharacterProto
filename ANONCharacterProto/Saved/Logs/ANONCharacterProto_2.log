@@ -964,3 +964,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.07-23.15.10:701][474]LogSavePackage: Moving '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/TopDownExampleMap_Auto1178C73AF46254B25159E0AA7A83C0C84.tmp' to '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
 [2023.06.07-23.15.10:702][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.186
 [2023.06.07-23.15.10:702][474]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
+[2023.06.07-23.27.00:924][629]Cmd: CAMERA ALIGN
+[2023.06.07-23.27.00:924][629]Can't find target actor or component.
+[2023.06.07-23.27.53:986][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.06.07-23.27.54:032][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.06.07-23.27.54:095][ 91]LogSavePackage: Moving '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/TopDownExampleMapB7BC5EB1463E249C5AC32285136FFDF7.tmp' to '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2023.06.07-23.27.54:117][ 91]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.109
+[2023.06.07-23.27.54:165][ 91]LogSavePackage: Moving '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/TopDownCharacter12CA70E64FDB29B5E90EE0B249E8BB68.tmp' to '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2023.06.07-23.27.54:184][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.07-23.27.54:184][ 91]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2023.06.07-23.27.54:184][ 91]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2023.06.07-23.27.54:185][ 91]LogAutoSizeComments: Saved cache to E:/Epic Got me by the balls/UE_4.27/Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/3718DAB54375A4B16B758B9FDE4D0E0F.json took   0.90ms
