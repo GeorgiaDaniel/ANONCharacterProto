@@ -960,3 +960,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.07-23.07.29:453][665]AssetCheck: New page: Asset Save: TopDownCharacter
 [2023.06.07-23.07.29:453][665]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
 [2023.06.07-23.07.34:531][ 94]LogSlate: Window 'TopDownCharacter' being destroyed
+[2023.06.07-23.15.10:545][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.06.07-23.15.10:701][474]LogSavePackage: Moving '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/TopDownExampleMap_Auto1178C73AF46254B25159E0AA7A83C0C84.tmp' to '../../../../../Github Work/ANONPlayerCharacterProto/ANONCharacterProto/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2023.06.07-23.15.10:702][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.186
+[2023.06.07-23.15.10:702][474]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
